@@ -17,7 +17,12 @@ print(f"Total bill: {Total} Taka")
 
 
 
-## Alternative way
+
+
+
+
+
+#Alternative Code from AI
 # A. Inputs
 # 1. Ask the user for the item name (string)
 item_name = input("Enter the item name: ")
