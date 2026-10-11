@@ -1,4 +1,4 @@
-#A part
+#A part(take input from user)
 a = input("Enter first number: ")
 print(type(a))
 b= input("Enter second number: ")
